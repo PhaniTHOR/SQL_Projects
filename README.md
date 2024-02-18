@@ -10,7 +10,7 @@ SQL (Structured Query Language) is a standardized programming language used for 
 5.	Data Administration: SQL includes commands for managing database objects, such as creating and dropping databases, tables, indexes, and views.
 
 
-###Why Do We Need Database Management?
+### Why Do We Need Database Management?
 Database management is crucial for organizations and businesses for several reasons:
 1.	Data Organization: Databases provide a structured way to organize and store large volumes of data efficiently. By organizing data into tables and relationships, databases facilitate easy retrieval and manipulation of information.
 2.	Data Integrity: Database management systems (DBMS) enforce data integrity by defining constraints such as primary keys, foreign keys, and unique constraints, which help maintain the accuracy and consistency of data.
